@@ -1,0 +1,8 @@
+{
+  "skipInvalidProxy": false,
+  "delayEachAccount": [1, 1],
+  "timeToRestartAllAccounts": 300,
+  "howManyAccountsRunInOneTime": 100,
+  "doTasks": true,
+  "referralCodes": ["BYPU1B"]
+}
